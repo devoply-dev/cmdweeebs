@@ -9,9 +9,9 @@ This project is for Japanese Anime lovers to easily download Animes without inte
 Clone my project from the repo
 
 ```bash
-  git clone https://github.com/devoply-dev/cmdanime
+  git clone https://github.com/devoply-dev/cmdweebs.git
 
-  cd cmdanime
+  cd cmdweebs
 ```
 Driver Installation
 --------------------
@@ -31,7 +31,6 @@ Driver Installation
   choco install chromedriver
 ```
 
-## Appendix
 How to use the script
 ----------------
 
@@ -40,6 +39,12 @@ How to use the script
 2. make sure to enter correct info on any prompt
 
 3. read thru the information printed out after any prompt
+
+##Example images
+
+<img src="./test img/project shot1.PNG" alt="Terminal"/>
+<img src="./test img/project shot two.PNG" alt="Terminal"/>
+
 ## Authors
 
 - [@haxsys](https://github.com/devoply-dev)
