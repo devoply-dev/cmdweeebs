@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/anime/__init__.py
+src/anime/getanime.py
+src/getanime.egg-info/PKG-INFO
+src/getanime.egg-info/SOURCES.txt
+src/getanime.egg-info/dependency_links.txt
+src/getanime.egg-info/top_level.txt
