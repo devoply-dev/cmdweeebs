@@ -42,8 +42,8 @@ How to use the script
 
 ##Example images
 
-<img src="./test img/project shot1.PNG" alt="Terminal"/>
-<img src="./test img/project shot two.PNG" alt="Terminal"/>
+<img src="https://github.com/devoply-dev/cmdweeebs/blob/main/test%20img/project%20shot1.png" alt="Terminal"/>
+<img src="https://github.com/devoply-dev/cmdweeebs/blob/main/test%20img/project%20shot%20two.png" alt="Terminal"/>
 
 ## Authors
 
