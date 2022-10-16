@@ -13,6 +13,7 @@ Clone my project from the repo
 
   cd cmdweebs
 ```
+
 Driver Installation
 --------------------
 
@@ -40,7 +41,7 @@ How to use the script
 
 3. read thru the information printed out after any prompt
 
-##Example images
+## Example images
 
 <img src="https://github.com/devoply-dev/cmdweeebs/blob/main/test%20img/project%20shot1.png" alt="Terminal"/>
 <img src="https://github.com/devoply-dev/cmdweeebs/blob/main/test%20img/project%20shot%20two.png" alt="Terminal"/>
