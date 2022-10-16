@@ -9,9 +9,9 @@ This project is for Japanese Anime lovers to easily download Animes without inte
 Clone my project from the repo
 
 ```bash
-  git clone https://github.com/devoply-dev/cmdanime
+  git clone https://github.com/devoply-dev/cmdweeebs
 
-  cd cmdanime
+  cd cmdweeebs
 ```
 Driver Installation
 --------------------
